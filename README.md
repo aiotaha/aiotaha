@@ -2,9 +2,9 @@
 
 <h3>👨‍💻 &nbsp; About Me</h3>
 
-- 💼 **Role**:&nbsp;Avionic Engineering Student | Machine Learning Engineer | Data Scientist 
+- 💼 **Role**:&nbsp;Avionic Engineering Student | Machine Learning Specialist | Data Scientist 
 - 🧠 **Interests**:&nbsp;Machine Learning, Deep Learning, Computer Vision  
-- 💻 **Languages / Tools**:&nbsp;Python (main focus), TensorFlow, Keras, PyTorch, NumPy, pandas, scikit-learn, Git  
+- 💻 **Languages / Tools**:&nbsp;Python (main focus), c++ 
 - 🌐 **Portfolio Focus**:&nbsp;Deep Learning, Computer Vision
 
 <h2>🔧Tech Stack</h2>
@@ -20,7 +20,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+ ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code)
  ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm)
  ![Spyder](https://img.shields.io/badge/-Spyder-333333?style=flat&logo=spyderide)
  ![Embarcadero](https://img.shields.io/badge/-Embarcadero-333333?style=flat&logo=embarcadero)
@@ -28,4 +28,8 @@
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobexd)
 ![Altium Designer](https://img.shields.io/badge/-Altium%20Designer-333333?style=flat&logo=altiumdesigner)
 ![HSPICE](https://img.shields.io/badge/-HSPICE-333333?style=flat&logo=)
-<br />
+
+
+<h2>🛠 Data Science & Machine Learning</h2>
+
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)  ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)  ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)  ![scikit-learn](https://img.shields.io/badge/-scikit--learn-333333?style=flat&logo=scikit-learn)  ![pandas](https://img.shields.io/badge/-pandas-333333?style=flat&logo=pandas)  ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=plotly)  ![Plotly](https://img.shields.io/badge/-Plotly-333333?style=flat&logo=plotly)  ![SciPy](https://img.shields.io/badge/-SciPy-333333?style=flat&logo=scipy)  ![PySpark](https://img.shields.io/badge/-PySpark-333333?style=flat&logo=apachespark)  ![HuggingFace](https://img.shields.io/badge/-HuggingFace-333333?style=flat&logo=huggingface)
