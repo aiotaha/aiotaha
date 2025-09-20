@@ -18,7 +18,6 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
  ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code)
  ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm)
@@ -32,4 +31,13 @@
 
 <h2>🛠 Data Science & Machine Learning</h2>
 
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)  ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)  ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)  ![scikit-learn](https://img.shields.io/badge/-scikit--learn-333333?style=flat&logo=scikit-learn)  ![pandas](https://img.shields.io/badge/-pandas-333333?style=flat&logo=pandas)  ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=plotly)  ![Plotly](https://img.shields.io/badge/-Plotly-333333?style=flat&logo=plotly)  ![SciPy](https://img.shields.io/badge/-SciPy-333333?style=flat&logo=scipy)  ![PySpark](https://img.shields.io/badge/-PySpark-333333?style=flat&logo=apachespark)  ![HuggingFace](https://img.shields.io/badge/-HuggingFace-333333?style=flat&logo=huggingface)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)  ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)  ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)  ![scikit-learn](https://img.shields.io/badge/-scikit--learn-333333?style=flat&logo=scikit-learn)  ![pandas](https://img.shields.io/badge/-pandas-333333?style=flat&logo=pandas)  ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=plotly)   ![HuggingFace](https://img.shields.io/badge/-HuggingFace-333333?style=flat&logo=huggingface)
+
+<br />
+<h2>⚡ Github Stats</h2>
+<div align="center">
+    <img src="https://streak-stats.demolab.com?user=aiotaha&theme=dark&hide_border=true">
+  </div>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiotaha&layout=compact&theme=dark&hide_border=true">
+  </div>
