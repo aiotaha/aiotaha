@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There!;I'm+Taha)](https://git.io/typing-svg)
+<h2>[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There!;I'm+Taha)](https://git.io/typing-svg)</h2>
 <!-- <h2>🖐Hi There! I'm Taha Sarhadi</h2>  -->
 
 <h3>👨‍💻 &nbsp; About Me</h3>
