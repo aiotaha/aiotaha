@@ -5,7 +5,7 @@
 - 💼 **Role**:&nbsp;Avionic Engineering Student | Machine Learning Specialist | Data Analyst 
 - 🧠 **Interests**:&nbsp;Machine Learning, Deep Learning, Computer Vision , UI/UX 
 - 💻 **Languages / Tools**:&nbsp;Python (main focus), C++ 
-- 🌐 **Portfolio Focus**:&nbsp;Deep Learning, Computer Vision
+- 🌐 **Portfolio Focus**:&nbsp;Machine Learning, Computer Vision
 
 <h2>🔧Tech Stack</h2>
 
