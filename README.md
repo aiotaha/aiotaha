@@ -25,7 +25,7 @@
  ![Spyder](https://img.shields.io/badge/-Spyder-333333?style=flat&logo=spyderide)
  ![Embarcadero](https://img.shields.io/badge/-Embarcadero-333333?style=flat&logo=embarcadero)
 - 🖥 &nbsp;
-- ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code)
+![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code)
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobexd)
 ![Altium Designer](https://img.shields.io/badge/-Altium%20Designer-333333?style=flat&logo=altiumdesigner)
 ![HSPICE](https://img.shields.io/badge/-HSPICE-333333?style=flat&logo=)
