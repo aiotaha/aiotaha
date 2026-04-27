@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=40&duration=4000&pause=1000&color=000000&width=350&height=90&lines=Hi+,+I'm+Taha!;+Sarhadi🖐)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=40&duration=4000&pause=1000&color=000000&width=350&height=90&lines=Hi+,+I'm+Taha+🖐!;A+passionate+ML+specialist;Python+|+Numpy+|+Pandas+|+Matplotlib)](https://git.io/typing-svg)
 
 <!-- <h2>Hi There! I'm Taha Sarhadi</h2>  -->
 
