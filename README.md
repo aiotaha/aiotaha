@@ -33,7 +33,7 @@
 
 <h2>🛠 Data Science & Machine Learning</h2>
 
-- 🧠 &nbsp;![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)  ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)  ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)  ![scikit-learn](https://img.shields.io/badge/-scikit--learn-333333?style=flat&logo=scikit-learn)  ![pandas](https://img.shields.io/badge/-pandas-333333?style=flat&logo=pandas)  ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=plotly)   ![HuggingFace](https://img.shields.io/badge/-HuggingFace-333333?style=flat&logo=huggingface)
+- 🧠 &nbsp;![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)  ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)  ![Scipy](https://img.shields.io/badge/-Scipy-333333?style=flat&logo=Scipy)  ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)  ![scikit-learn](https://img.shields.io/badge/-scikit--learn-333333?style=flat&logo=scikit-learn)  ![pandas](https://img.shields.io/badge/-pandas-333333?style=flat&logo=pandas)  ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=plotly)   ![HuggingFace](https://img.shields.io/badge/-HuggingFace-333333?style=flat&logo=huggingface)
 
 <h2>🧐 Views</h2>
 
