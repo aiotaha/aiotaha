@@ -1,6 +1,6 @@
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=40&duration=4000&pause=1000&color=000000&width=700&height=90&lines=Hi+,+I'm+Taha+🖐;A+passionate+ML+specialist;Pandas+|+Numpy+|+Scipy+|+Matplotlib)](https://git.io/typing-svg) -->
 
- <h2>Hi There! I'm Taha Sarhadi</h2>  
+ <h2>Hi There! I'm Taha 🖐 </h2>  
 
 <h3>👨‍💻 &nbsp; About Me</h3>
 
