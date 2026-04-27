@@ -1,4 +1,4 @@
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=40&duration=4000&pause=1000&color=000000&width=700&height=90&lines=Hi+,+I'm+Taha+🖐;A+passionate+ML+specialist;Pandas+|+Numpy+|+Scipy+|+Matplotlib)](https://git.io/typing-svg) -->
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=40&duration=4000&pause=1000&color=000000&width=700&height=90&lines=Hi+,+I'm+Taha+🖐;A+passionate+ML+specialist)](https://git.io/typing-svg) -->
 
  <h2>Hi There! I'm Taha 🖐 </h2>  
 
@@ -35,6 +35,7 @@
 
 - 🧠 &nbsp;![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)  ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)  ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)  ![scikit-learn](https://img.shields.io/badge/-scikit--learn-333333?style=flat&logo=scikit-learn)  ![pandas](https://img.shields.io/badge/-pandas-333333?style=flat&logo=pandas)  ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=plotly)   ![HuggingFace](https://img.shields.io/badge/-HuggingFace-333333?style=flat&logo=huggingface)
 
+![](https://komarev.com/ghpvc/?username=aiotaha)
 <!--
 <h2>⚡ Github Stats</h2>
 
@@ -45,4 +46,4 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiotaha&layout=compact&theme=dark&hide_border=true">
   </div>
   -->
-  ![](https://komarev.com/ghpvc/?username=aiotaha)
+  
