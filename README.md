@@ -42,9 +42,11 @@
 <div align="center">
     <img src="https://streak-stats.demolab.com?user=aiotaha&theme=dark&hide_border=true">
   </div>
+<!--
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiotaha&layout=compact&theme=dark&hide_border=true">
   </div>
+-->
   
   <h2>🧐 Views</h2>
 
