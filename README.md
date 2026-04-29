@@ -48,7 +48,7 @@
   </div>
 <br>
  <p align="center"><img src="https://komarev.com/ghpvc/?username=aiotaha&base=1000&style=flat-square&color=000000" alt=""></p>
-<hr style="height:0.3px; border:none; background:#d0d0d0;">
+<hr style="height:0.1px; border:none; background:#000000;">
  <div align="center"> 
   <h3> 🏆 GitHub Profile Trophy </h3>
 </div>
