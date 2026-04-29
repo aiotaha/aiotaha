@@ -39,6 +39,9 @@
 
 
 <h2>⚡ Github Stats</h2>
+<a href="https://aiotaha.github.io/" target="_blank">
+        <img src="https://github-widgetbox.vercel.app/api/profile?username=aiotaha&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
+</a>
 
 <div align="center">
     <img src="https://streak-stats.demolab.com?user=aiotaha&theme=dark&hide_border=true">
