@@ -52,7 +52,6 @@
  <div align="center"> 
   <h3> 🏆 GitHub Profile Trophy </h3>
 </div>
-|     :---:      |
  <div>
   <img width=1000 src="https://github-profile-trophy.vercel.app/?username=aiotaha&theme=onedark&bg_color=000000&column=-1"/>
 </div>
