@@ -48,6 +48,14 @@
   </div>
 <br>
  <p align="center"><img src="https://komarev.com/ghpvc/?username=aiotaha&base=1000&style=flat-square&color=000000" alt=""></p>
+
+ <div align="center"> 
+  <h3> 🏆 GitHub Profile Trophy </h3>
+</div>
+ <div>
+  <img width=1000 src="https://github-profile-trophy.vercel.app/?username=aiotaha&theme=onedark&bg_color=000000&column=-1"/>
+</div>
+
 <!--
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiotaha&layout=compact&theme=dark&hide_border=true">
