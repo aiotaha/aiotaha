@@ -46,6 +46,8 @@
 <div align="center">
     <img src="https://streak-stats.demolab.com?user=aiotaha&theme=dark&hide_border=true">
   </div>
+
+ <p align="center"><img src="https://komarev.com/ghpvc/?username=aiotaha&style=flat-square&color=000000" alt=""></p>
 <!--
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiotaha&layout=compact&theme=dark&hide_border=true">
