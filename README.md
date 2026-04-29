@@ -51,6 +51,6 @@
   <h2>🧐 Views</h2>
   - 👀 &nbsp;!
 -->
-[](https://komarev.com/ghpvc/?username=aiotaha&color=333333&base=1000&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=aiotaha&color=333333&base=1000&label=PROFILE+VIEWS)
 
 
