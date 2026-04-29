@@ -47,9 +47,10 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiotaha&layout=compact&theme=dark&hide_border=true">
   </div>
 -->
-  
+<!--
   <h2>🧐 Views</h2>
-
-- 👀 &nbsp;![](https://komarev.com/ghpvc/?username=aiotaha&color=333333&base=1000&label=PROFILE+VIEWS)
+  - 👀 &nbsp;!
+-->
+[](https://komarev.com/ghpvc/?username=aiotaha&color=333333&base=1000&label=PROFILE+VIEWS)
 
 
