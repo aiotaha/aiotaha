@@ -8,6 +8,7 @@
 - 🧠 **Interests**:&nbsp;Machine Learning, Deep Learning, Computer Vision , UI/UX 
 - 💻 **Languages / Tools**:&nbsp;Python (main focus), C++ 
 - 🌐 **Portfolio Focus**:&nbsp;Machine Learning, Computer Vision
+- Let’s build a perfect future for the whole world with the most powerful tools of all times, Artificial Intelligence and Natural Intelligence
 
 <h2>🔧Tech Stack</h2>
 
@@ -51,6 +52,4 @@
   <h2>🧐 Views</h2>
   - 👀 &nbsp;!
 -->
-![](https://komarev.com/ghpvc/?username=aiotaha&color=333333&base=1000&label=PROFILE+VIEWS)
-
 
