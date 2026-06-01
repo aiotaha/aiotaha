@@ -50,11 +50,13 @@
  <p align="center"><img src="https://komarev.com/ghpvc/?username=aiotaha&base=1000&style=flat-square&color=000000" alt=""></p>
 <hr style="height:0.1px; border:none; background:000000;">
  <div align="center"> 
+  <!--
   <h3> 🏆 GitHub Profile Trophy </h3>
 </div>
  <div>
   <img width=1000 src="https://github-profile-trophy.vercel.app/?username=aiotaha&theme=onedark&bg_color=000000&column=-1"/>
 </div>
+-->
 
 <!--
 <div align="center">
